@@ -1,5 +1,6 @@
 
-SUBDIRS = misc-modules scull
+SUBDIRS = misc-modules \
+		scull
 
 all: subdirs
 
